@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+header,footer {
+    background-color: LightSteelBlue;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+}
+
+header a {
+    color: white;
+    background-color: darkblue;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 5px
+}
+
+h1 {
+    background-color:PowderBlue ;
+    color: MidnightBlue;
+    border-radius: 6px ;
+    border: 1px solid Blue
+}
+
+footer p{
+    font-size:20px ;
+    background-color: Aqua;
+}
+
+nav {
+    font-size: 25px;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: PaleTurquoise;
+    border: 5px dotted darkblue ;
+    border-radius: 14px;
+}
+
+header {
+    margin: 14px;
+}
+
+.r {
+    background-color: Aquamarine;
+    border: 6px inset darkcyan;
+    border-radius: 10px;
+}
+
+.d {
+    color: darkblue
+}
+
+.a {
+    background-color: LightBlue;
+    text-decoration: none;
+    border: 2px solid darkblue;
+    border-radius: 9px;
+    font-size: 30px;
+}
+
+.i {
+    border: 2px solid darkblue
+}
